@@ -1,0 +1,39 @@
+US|Atlanta|Chicago|Dallas|Las Vegas|Los Angeles|Miami|New York|Phoenix|San Francisco|Seattle|Washington
+AR|Buenos Aires
+AU|Brisbane|Melbourne|Sydney
+BR|Sao Paulo
+BS|Nassau
+CA|Montreal|Toronto|Vancouver
+CH|Huenenberg|Zurich
+CL|Santiago
+CN|Shenzhen
+CO|Bogota
+CR|San Jose
+CY|Nicosia
+CZ|Prague
+DE|Berlin|Dusseldorf|Frankfurt
+DK|Copenhagen
+ES|Barcelona|Madrid|Valencia
+FR|Marseille|Paris|Strasbourg
+GB|Berkshire|London|Manchester
+HK|Hong Kong
+ID|Jakarta
+IE|Dublin
+IL|Jerusalem
+IN|Mumbai
+IS|Reykjavik
+IT|Milano|Rome
+JP|Tokyo
+KE|Nairobi
+KH|Phnom Penh
+KR|Seoul
+LA|Vientiane
+MN|Ulaanbaatar
+MY|Kuala Lumpur
+NL|Amsterdam
+NZ|Auckland
+PH|Manila
+SG|Singapore
+TH|Bangkok
+TW|Taipei
+EOF
